@@ -9,9 +9,9 @@ Keep in mind this isn't an ideal way to write a minesweeper clone. Its just a re
 - Regular features/rules of the classic minesweeper. Right click to place a mine marker and left click to clear tiles.
 
 # Licensing
-Read [LICENSE](../main/LICENSE) for more information.
+Read [LICENSE](../master/LICENSE) for more information.
 
 # Images
-![Image](https://github.com/Commando950/Pascalsweeper/raw/main/example.png "An example in action.")
+![Image](https://github.com/Commando950/Pascalsweeper/raw/master/example.png "An example in action.")
 
 *The image above shows the program and its interface.*
